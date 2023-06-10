@@ -18,11 +18,11 @@ $ <html>
 </tr>
 <tr>
 <td bgcolor="#0000FF"> UMUR </td>
-<td> 23 TAHUN </td>
+<td> 18 TAHUN </td>
 </tr>
 <tr>
 <td bgcolor="#0000FF"> ALAMAT </td>
-<td> LUWU UTARA </td>
+<td> BOGOR SELATAN  </td>
 </tr>
 <tr>
 <td bgcolor="#0000FF"> HOBI </td>
