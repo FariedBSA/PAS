@@ -14,7 +14,7 @@ $ <html>
 <img src="image.jpg" width="150px" height="200px" border="2">
 </td>
 <td bgcolor="#0000FF">NAMA </td>
-<td> WELDY SIMON </td>
+<td> FARIED </td>
 </tr>
 <tr>
 <td bgcolor="#0000FF"> UMUR </td>
