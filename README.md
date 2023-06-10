@@ -29,7 +29,7 @@ $ <html>
 <td> MEMBACA DAN MENULIS </td>
 </tr>
 <tr>
-<td align="center" colspan="2" bgcolor="white"> <a href="https://www.anaktekno.com">WWW.ANAKTEKNO.COM</a> </td>
+<td align="center" colspan="2" bgcolor="white"> <a href="https://github.com/FariedBSA/PAS">https://github.com/FariedBSA/PAS</a> </td>
 </tr>
 </table>
 </body>
